@@ -1,0 +1,14 @@
+div {
+    display: inline-block;
+    width: 30%;
+}
+
+iframe {
+    width: 100%;
+}
+
+body {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
